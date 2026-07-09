@@ -14,7 +14,7 @@ export default function Contact() {
 
         <div className="max-w-4xl mx-auto mb-16 shadow-2xl rounded overflow-hidden">
           <img 
-            src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2070" 
+            src="https://instagram.fjdf1-1.fna.fbcdn.net/v/t39.30808-6/472304632_18483929659007324_263157299863368257_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzQzOTY0NTI2NzYzNDgyODExMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JjpeOhIUOtUQ7kNvwEtA14t&_nc_oc=Adof8wfQYL24aTtBm8r_CzbDm6Umtg-4S9omoSyPc1QNDP-zlr4MNGDFILQ-mlCZyOo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fjdf1-1.fna&_nc_gid=8ZkQucnYtw1-vauR8icueQ&_nc_ss=7a22e&oh=00_AQBcsPTstHYfrQFsi4IkrhTvqEw8S87f_EqUuoDxu9k_HQ&oe=6A54EC2A" 
             alt="Ambiente interno do restaurante" 
             className="w-full h-auto object-cover max-h-[450px]"
           />
@@ -55,11 +55,6 @@ export default function Contact() {
           </div>
 
         </div>
-
-
-        <button className="mt-16 bg-[#b36239] text-white px-10 py-4 text-sm uppercase tracking-wider font-sans rounded hover:bg-[#964f2c] transition shadow-md">
-          Ligar para Reservar
-        </button>
       </div>
     </section>
   );
